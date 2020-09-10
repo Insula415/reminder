@@ -1,6 +1,8 @@
 Hi there!
 Thanks for installing my script
 
+This only works with gmail!!
+
 To get up and running, first enter your details into the "secrets.py" file.
 
 Next either choose whether you are sending the reminder to yourself or somebody else
