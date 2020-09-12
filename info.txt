@@ -16,6 +16,7 @@ If you want to make the script a command so you only have to type a word in the 
 
 2. Next, type sudo cp sender.py /usr/bin/email. 
 The last word is what you need to type in the terminal, example: sudo cp sender.py /usr/bin/hello - I would type "hello" to run it.
+(you will need to move the secrets.py file to /usr/bin too)
 
 3. That's it. Now when you type "email" in any directory it should work!
 
