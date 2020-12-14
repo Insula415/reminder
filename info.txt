@@ -8,7 +8,6 @@ Next either choose whether you are sending the reminder to yourself or somebody 
 If you are reminding yourself use "python3 sender.py"
 If you are reminding somebody else use "python3 sender.py" then manually enter their email
 
-If you have any issues or criticism don't hesitate to email me at fredisheretohelp@protonmail.com
 --------------------------------------------------------------------------------------------------
 If you want to make the script a command so you only have to type a word in the terminal follow these steps:
 
@@ -21,3 +20,6 @@ The last word is what you need to type in the terminal, example: sudo cp sender.
 3. That's it. Now when you type "email" in any directory it should work!
 
 !!!YOU MAY NEED TO INSTALL COLORAMA!!!
+
+Thanks, 
+Insula
